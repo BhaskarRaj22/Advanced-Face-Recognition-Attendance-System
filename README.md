@@ -179,7 +179,7 @@ The system auto-generates timestamped CSV reports using **pandas**:
 | Name | Date | Time | Status |
 |---|---|---|---|
 | Bhaskar Raj | 2024-05-20 | 09:03:22 | Present |
-| Rahul Sharma | 2024-05-20 | 09:07:45 | Present |
+| Kanish Kumar | 2024-05-20 | 09:07:45 | Present |
 | Unknown | 2024-05-20 | 09:11:30 | Rejected (Spoof) |
 
 ---
